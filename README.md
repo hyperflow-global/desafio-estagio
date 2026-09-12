@@ -1,6 +1,6 @@
-# 🚀 Desafio de Estágio: Plataforma Inteligente de Estudos para o ENEM
+# Desafio de Estágio: Plataforma Inteligente de Estudos para o ENEM
 
-## 📌 Contexto
+## Contexto
 
 Como nos ensina o mestre Paulo Freire em sua *Pedagogia da Autonomia*, a verdadeira educação não é apenas a transferência de conhecimento, mas a criação das possibilidades para a sua própria produção. Por isso, mais do que testar se você já sabe de cor um framework específico, o grande objetivo deste desafio é um só: **queremos ver você provar que sabe aprender a aprender**.
 
@@ -46,7 +46,7 @@ Para construirmos no mesmo ecossistema do nosso time, você deve focar nas segui
 
 4. **A Feature de IA:** Onde a mágica acontece. A aplicação deve consumir a API de IA escolhida de maneira aberta e criativa, desde que seja útil para o contexto de estudos do ENEM.
 
-🗄️ **Dica sobre Banco de Dados:** Para salvar os dados dos usuários e dos simulados, recomendamos fortemente o uso do **MongoDB** (possui cota gratuita via Atlas e é um dos principais bancos que utilizamos hoje) ou **PostgreSQL** (que você pode utilizar de forma gratuita e fácil com o **Supabase**, e também utilizamos muito no nosso dia a dia).
+**Dica sobre Banco de Dados:** Para salvar os dados dos usuários e dos simulados, recomendamos fortemente o uso do **MongoDB** (possui cota gratuita via Atlas e é um dos principais bancos que utilizamos hoje) ou **PostgreSQL** (que você pode utilizar de forma gratuita e fácil com o **Supabase**, e também utilizamos muito no nosso dia a dia).
 
 ## 💻 Requisitos Não-Funcionais e Entregáveis
 
@@ -78,7 +78,7 @@ Para construirmos no mesmo ecossistema do nosso time, você deve focar nas segui
 
 * **Documentação (O seu README):** O README é a vitrine do seu código! É aqui que você vai "vender" o seu projeto para o nosso time. O seu repositório deve conter um `README.md` caprichado explicando:
 
-  * 🌐 **Link do Deploy:** Coloque o link da sua aplicação rodando logo no topo do README.
+  *  **Link do Deploy:** Coloque o link da sua aplicação rodando logo no topo do README.
 
   * Qual foi a sua ideia para o uso da IA no projeto.
 
@@ -131,3 +131,12 @@ Sabemos que a vida é corrida e imprevistos acontecem. Se por algum motivo você
 Caso você tenha alguma dúvida durante o desenvolvimento e nem o Google, nem alguma IA consigam te ajudar, não hesite em entrar em contato com o nosso time através do e-mail: `kelwin.ferreira@hyperflow.global`.
 
 Estamos ansiosos para ver o que você vai construir. Boa sorte e divirta-se codando! 🚀
+
+
+## 🌱 Para a vida
+
+Sabemos que a vida de estudante (e de dev!) é cheia de desafios. Por isso, queremos te deixar duas dicas que vão te ajudar muito, não só neste processo seletivo, mas em toda a sua jornada acadêmica e profissional:
+
+*   **[GitHub Student Developer Pack](https://education.github.com/pack):** O GitHub oferece um pacote incrível e totalmente gratuito para estudantes verificados. O pacote inclui dezenas de benefícios como licenças grátis de ferramentas profissionais, hospedagem em nuvem, domínios gratuitos e até acesso ao GitHub Copilot! Basta se cadastrar com o seu e-mail da faculdade.
+*   **[Gemini para Estudantes](https://gemini.google/students/):** O Google também conta com um plano focado em universitários (geralmente garantindo recursos avançados da IA sem custo por um longo período). É a ferramenta perfeita para te ajudar a criar cronogramas, resumir PDFs imensos da faculdade e aprender novos conceitos de programação mais rápido. Vale muito a pena resgatar!
+
