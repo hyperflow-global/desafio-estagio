@@ -124,6 +124,9 @@ O que nosso time de engenharia vai olhar no seu projeto:
 
 3. Envie o link do seu repositório público (que já deve conter o link do deploy no README) para o mesmo email que você recebeu o desafio com o assunto "Desafio Estágio - Seu Nome" até 8 dias após o recebimento do email do desafio técnico.
 
+🫂 **Não conseguiu terminar tudo? Envie mesmo assim!**
+Sabemos que a vida é corrida e imprevistos acontecem. Se por algum motivo você não conseguir finalizar 100% dos requisitos até o prazo, não desista! **Entregue o que você conseguiu fazer até a data máxima**. Nosso time vai avaliar o seu código, a sua lógica e o seu esforço com muito carinho e atenção. O mais importante é mostrar a sua evolução.
+
 🆘 **Dúvidas?**
 Caso você tenha alguma dúvida durante o desenvolvimento e nem o Google, nem alguma IA consigam te ajudar, não hesite em entrar em contato com o nosso time através do e-mail: `kelwin.ferreira@hyperflow.global`.
 
