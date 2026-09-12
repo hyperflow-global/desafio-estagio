@@ -34,7 +34,7 @@ Para construirmos no mesmo ecossistema do nosso time, você deve focar nas segui
 
 * **Controle de Versão:** Git e GitHub.
 
-💡 **Dica de Ouro:** Recomendamos o uso da IDE [antigravidade](https://idx.dev/) do Google. Pelo mesmo motivo da IA do Google, ela tem uma ótima cota gratuita de uso para codar. Mas você é totalmente livre: pode usar o **Cursor**, fazer tudo "na mão" com o bom e velho **VS Code**, ou utilizar qualquer outra IDE da sua preferência!
+💡 **Dica de Ouro:** Recomendamos o uso da IDE [antigravidade](https://antigravity.google/) do Google. Pelo mesmo motivo da IA do Google, ela tem uma ótima cota gratuita de uso para codar. Mas você é totalmente livre: pode usar o **Cursor**, fazer tudo "na mão" com o bom e velho **VS Code**, ou utilizar qualquer outra IDE da sua preferência!
 
 ## ✅ Requisitos Funcionais
 
