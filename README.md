@@ -6,7 +6,7 @@ Como nos ensina o mestre Paulo Freire em sua *Pedagogia da Autonomia*, a verdade
 
 ## 🎯 O Desafio
 
-O Exame Nacional do Ensino Médio (ENEM) é a principal porta de entrada para o ensino superior no Brasil, e provavelmente você  fez ele. Preparar-se para ele exige organização, prática e bons materiais. Nossa missão neste desafio é avaliar como você usa a tecnologia e a sua autonomia investigativa para facilitar a vida do estudante.
+O Exame Nacional do Ensino Médio (ENEM) é a principal porta de entrada para o ensino superior no Brasil, e provavelmente você  fez ele. Preparar-se para ele exige organização, prática e bons materiais. Nossa missão neste desafio é avaliar como você usa a tecnologia e a sua capacidade de correr atrás e aprender o que for preciso para facilitar a vida do estudante.
 
 Sua tarefa é desenvolver uma **aplicação web** voltada para estudantes que estão se preparando para o ENEM.
 
