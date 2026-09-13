@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Como nos ensina o mestre Paulo Freire em sua *Pedagogia da Autonomia*, a verdadeira educação não é apenas a transferência de conhecimento, mas a criação das possibilidades para a sua própria produção. Por isso, mais do que testar se você já sabe de cor um framework específico, o grande objetivo deste desafio é um só: **queremos ver você provar que sabe aprender a aprender**.
+Como nos ensina Paulo Freire em sua *Pedagogia da Autonomia*, a verdadeira educação não é apenas a transferência de conhecimento, mas a criação das possibilidades para a sua própria produção. Por isso, mais do que testar se você já sabe de cor um framework específico, o grande objetivo deste desafio é um só: **queremos ver você provar que sabe aprender a aprender**.
 
 ## 🎯 O Desafio
 
