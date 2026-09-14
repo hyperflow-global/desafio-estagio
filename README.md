@@ -116,6 +116,8 @@ O que nosso time de engenharia vai olhar no seu projeto:
 
 4. **Uso do Git:** Como você documenta o desenvolvimento através dos commits.
 
+5. **Domínio do Próprio Código**: Nós encorajamos que você utilize ferramentas de IA (como ChatGPT, GitHub Copilot, etc) para te auxiliar na escrita do código. Porém, você precisa entender o que está sendo feito. Caso avance para a próxima etapa, teremos um bate-papo técnico com nosso time onde você deverá explicar as decisões de arquitetura e o funcionamento do sistema construído.
+
 ## 📦 Como Entregar
 
 1. Crie o seu repositório seguindo as regras acima.
